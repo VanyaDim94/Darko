@@ -37965,7 +37965,7 @@ a.u-link.u-text-hover-grey-90:hover {
 
 .u-section-1 .u-text-1 {
   font-family: "Pangolin";
-  font-size: 6rem;
+  font-size: 4rem;
   font-weight: 700;
   margin: 148px 455px 0 0;
 }
@@ -38051,7 +38051,8 @@ a.u-link.u-text-hover-grey-90:hover {
   }
 
   .u-section-1 .u-text-1 {
-    font-size: 2.75rem;
+    font-size: 2.25rem;
+    padding: 0px 20px;
   }
 
   .u-section-1 .u-text-2 {
@@ -39642,7 +39643,6 @@ a.u-link.u-text-hover-grey-90:hover {
 @media (max-width: 575px) {
   .u-section-9 .u-sheet-1 {
     min-height: 792px;
-    margin-left: 10px;
   }
 
   .u-section-9 .u-text-1 {
